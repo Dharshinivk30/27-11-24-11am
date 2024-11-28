@@ -2,3 +2,4 @@ Hello this is our first day git session
 This is my second line
 This is my third line
 This is the chnge made in remote repo
+This is a change for PR
